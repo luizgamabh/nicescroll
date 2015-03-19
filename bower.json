@@ -1,0 +1,22 @@
+{
+  "name": "nicescroll",
+  "main": "nicescroll.js",
+  "version": "0.9.9",
+  "homepage": "https://github.com/luizgamabh/nicescroll",
+  "authors": [
+    "Luiz Gustavo Freire Gama <luizgamabh@gmail.com>"
+  ],
+  "description": "Improved smooth scroll",
+  "keywords": [
+    "nicescroll",
+    "smoothscroll"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

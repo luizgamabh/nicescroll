@@ -4,7 +4,7 @@
 // - Balazs Galambosi: maintainer (CHANGELOG.txt)
 // - Patrick Brunner (patrickb1991@gmail.com)
 // - Michael Herf: ssc_pulse Algorithm
-// Aprimorado por @luizgamabh
+// - Luiz Gama: optimizations, githubzation, bowerization (@luizgamabh)
 
 // Initialize
 
